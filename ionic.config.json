@@ -1,0 +1,7 @@
+{
+  "name": "mqtt-gas-andr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
